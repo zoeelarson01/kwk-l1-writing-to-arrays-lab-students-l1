@@ -25,7 +25,7 @@ describe "change_rainbow_colors" do
 end
 
 describe "add_colors" do
-  it "should add 'green' and 'red' to the the array 'rainbow_colors'" do
+  it "should add 'green' and 'blue' to the the array 'rainbow_colors'" do
     puts ""
     converted_rainbow.each { |c| 2.times { 45.times {print "\u2588".colorize(c)}; puts "" } }
     puts ""
