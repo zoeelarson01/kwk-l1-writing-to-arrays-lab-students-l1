@@ -51,7 +51,7 @@ values in the array.
 ### Challenge 1: Editing Single Values in the Rainbow
 
 In the file `editing_arrays.rb`, write a solution for the method
-`change_rainbow_colors` that changes the current four values, "yellow",
+`change_rainbow_colors` that changes the current three values, "yellow",
 "default", and "light_cyan" to the correct colors "red", "light_red",
 "light_yellow". Use the index of these values to make changes.
 
